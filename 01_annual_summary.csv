@@ -1,0 +1,11 @@
+Fiscal_Year,State,Cigarette_Revenue_M,OTP_Revenue_M,Total_Tobacco_M,YoY_Change_Cigarette_Pct,Tax_Rate_Per_Pack
+FY2021,Virginia,234.2,52.4,286.6,,0.60
+FY2022,Virginia,219.8,58.8,278.6,-6.1,0.60
+FY2023,Virginia,188.7,57.4,246.1,-14.2,0.60
+FY2024,Virginia,169.9,55.1,225.0,-10.0,0.60
+FY2025,Virginia,155.8,55.0,210.8,-8.3,0.60
+FY2021,Maryland,322.2,47.3,369.5,,3.75
+FY2022,Maryland,417.9,55.6,473.5,29.7,3.75
+FY2023,Maryland,390.5,58.3,448.8,-6.6,3.75
+FY2024,Maryland,343.6,61.4,405.0,-12.0,5.00
+FY2025,Maryland,390.4,65.4,455.8,14.0,5.00

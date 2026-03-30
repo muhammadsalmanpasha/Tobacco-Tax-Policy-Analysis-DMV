@@ -1,0 +1,11 @@
+Fiscal_Year,State,Tax_Rate_Per_Pack,Tax_Gap_MD_minus_VA
+FY2021,Virginia,0.60,3.15
+FY2021,Maryland,3.75,3.15
+FY2022,Virginia,0.60,3.15
+FY2022,Maryland,3.75,3.15
+FY2023,Virginia,0.60,3.15
+FY2023,Maryland,3.75,3.15
+FY2024,Virginia,0.60,4.40
+FY2024,Maryland,5.00,4.40
+FY2025,Virginia,0.60,4.40
+FY2025,Maryland,5.00,4.40
